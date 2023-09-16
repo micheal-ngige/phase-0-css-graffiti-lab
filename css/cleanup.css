@@ -1,1 +1,16 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+  html {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    border: 0cap;
+  }
+  .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    position: static;
+    top: 0%;
+    bottom: 0%;
+    width: 970px;
+    height: 621px;
+  }
